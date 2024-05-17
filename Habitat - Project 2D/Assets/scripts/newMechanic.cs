@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,7 +8,6 @@ public class newMechanic : MonoBehaviour
     void Start()
     {
         //yeni mechanic eklendi
-        //mechanic geliştirildi ve güncellendi
     }
 
     // Update is called once per frame
